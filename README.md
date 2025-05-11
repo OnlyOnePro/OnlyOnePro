@@ -1,7 +1,5 @@
 ### Hello System! 👋
 
-I'm here to work, not to be an activist. 
-
 I develop mainly on C# with 7 years of experience. Tested almost everything on the Sharp side of the code at least once (excluding Silverlight and stuff that was already deprecated back then). 
 
 Some of my great passions on C# are:
@@ -13,7 +11,3 @@ Some of my great passions on C# are:
 I started coding in C++, mainly for Unreal Engine 4 video game development (my greatest passion). It has been complex and interesting so far.
 
 I don't do too much open source repositories, so don't expect me to have a lot of open repos in this account (mainly due to my usual systems to enterprise clients).
-
-## My Stats
-
-[![OnlyOnePro's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyOnePro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
